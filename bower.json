@@ -1,0 +1,30 @@
+{
+  "name": "iSeeWebApp",
+  "version": "0.0.1",
+  "authors": [
+    "robert <robrotheram@gmail.com>"
+  ],
+  "description": "Web Application for challage submission for iseeapp.co.uk",
+  "main": "index.php",
+  "license": "MIT",
+  "homepage": "iseeapp.co.uk",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.14",
+    "bootstrap": "~3.3.2",
+    "jquery": "~2.1.3",
+    "angular-route": "~1.3.14",
+    "angular-nouislider": "~0.3.1",
+    "font-awsome": "~4.3.0",
+    "slick": "*"
+  },
+  "resolutions": {
+    "angular": "1.3.15"
+  }
+}
